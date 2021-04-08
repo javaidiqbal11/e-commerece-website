@@ -22,7 +22,7 @@ WITHOUT THE DATABASE THE PROJECT WON'T RUN.
 >>DATABASE FILE IS INSIDE "database" FOLDER!
 
 
-How To Run??
+                    : : : : : How to Run : : : : : 
 After Starting Apache and MySQL in XAMPP, follow the following steps
 
 1st Step: Extract file
